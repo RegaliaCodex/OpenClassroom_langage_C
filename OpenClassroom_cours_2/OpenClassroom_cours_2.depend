@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1626708608 source:c:\users\karl\desktop\openclassroom\openclassroom_cours_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
