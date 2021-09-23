@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626704789 source:c:\users\karl\desktop\openclassroom\openclassroom_cours_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
